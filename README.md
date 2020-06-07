@@ -1,2 +1,2 @@
- aloha 
- Aloha means "Hi" in Hawaian...
+Aloha 
+                Aloha means "Hi" in Hawaian... Alohaa
